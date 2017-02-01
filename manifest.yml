@@ -6,5 +6,5 @@ name: MicroservicesOrdersAPI
 buildpack: sdk-for-nodejs
 path: .
 instances: 1
-memory: 96M
+memory: 96g
 
